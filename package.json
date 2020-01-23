@@ -19,7 +19,7 @@
   "scripts": {
     "flow": "flow",
     "flow:watch": "FLOW_WATCH_NO_CLEAR_CONSOLE=1 flow-watch -q",
-    "start": "react-scripts start && flow",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
