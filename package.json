@@ -5,6 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.0",
     "@material-ui/icons": "^4.5.1",
+    "@material-ui/styles": "latest",
     "flow-watch": "^1.1.5",
     "history": "^4.10.1",
     "node-sass": "^4.13.0",
@@ -14,7 +15,7 @@
     "react-router-dom": "^5.1.2",
     "react-router-hash-link": "^1.2.2",
     "react-scripts": "3.2.0",
-    "@material-ui/styles": "latest"
+    "uuid": "^3.4.0"
   },
   "scripts": {
     "flow": "flow",
